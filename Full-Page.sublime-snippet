@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		$0
+	</body>
+</html>
+]]></content>
+	<tabTrigger>html5page</tabTrigger>
+	<description>HTML: Full-Page</description>
+</snippet>

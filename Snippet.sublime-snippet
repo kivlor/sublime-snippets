@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<snippet>
+	<content><![CDATA[$1]]$NOT_DEFINED></content>
+	<tabTrigger>$2</tabTrigger>
+	<description>$3</description>
+</snippet>
+]]></content>
+	<tabTrigger>snippet</tabTrigger>
+	<description>Snippet</description>
+</snippet>

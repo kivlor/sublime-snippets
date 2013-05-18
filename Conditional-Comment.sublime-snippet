@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!--[if IE]>
+$0
+<![endif]-->
+]]></content>
+	<tabTrigger>condcom</tabTrigger>
+	<description>HTML: Conditional-Comment</description>
+</snippet>
