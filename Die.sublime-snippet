@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+echo '<pre>';
+var_dump($0);
+die();
+]]></content>
+	<tabTrigger>die</tabTrigger>
+	<description>PHP: Die</description>
+</snippet>
