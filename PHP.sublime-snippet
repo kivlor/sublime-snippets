@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<?php
+
+$0
+
+// EOF
+]]></content>
+	<tabTrigger>php</tabTrigger>
+	<description>PHP: PHP File</description>
+</snippet>
