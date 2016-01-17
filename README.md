@@ -1,3 +1,3 @@
-## My Snippets for Sublime
+### Sublime Snippets
 
-A bunch of snippets I regularly used in Coda ported to Sublime :+1:
+A bunch of snippets I regularly use in Sublime
